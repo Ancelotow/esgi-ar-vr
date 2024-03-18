@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ZerinLabs_enviroKit_RetroClocktower/Scenes/scn_clockwork_sampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
